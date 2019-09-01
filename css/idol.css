@@ -1,10 +1,14 @@
 html, body{
-	font-family: Arial;
+	font-family: Impact;
 	margin: 0;
+	background-image: url(http://www.printawallpaper.com/upload/designs/Golden_Background_dn.jpg);
+	background-repeat: no-repeat;
+    background-size: cover;
 }
 
+
 header{
-	background-color: #0077b3;
+	background-image: url(https://www.designyourway.net/blog/wp-content/uploads/2018/01/4vn9h6o.jpg);
 	padding: 40px;
 	text-align: center;
 }
@@ -18,7 +22,7 @@ h1{
 header img{
 	border-radius: 100px;
 	height: 400px;
-	border: 5px solid #b3b3b3;
+	border: 5px solid white;
 }
 
 .content{
@@ -33,7 +37,7 @@ img.big-image{
 
 p.caption{
 	font-size: 16px;
-	color: #b3b3b3;
+	color: #ffffffb5;
 	font-style: italic;
 }
 
@@ -45,17 +49,18 @@ ul{
 }
 
 a{
-	color: red;
+	color: white;
 	text-decoration: none;
 }
 
 footer{
 	padding: 40px 20px;
-	background-color: #b3b3b3;
+	background-color: black;
 }
  
  footer ul{
  	text-align: center;
+ 	color: gold;
  }
 
 footer ul li{
